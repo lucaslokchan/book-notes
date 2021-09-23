@@ -1,5 +1,7 @@
-# Table of Contents
+# Notes
+Notes on books I read
 
+## Books
 * How To Win Friends And Influence People by Dale Carnegie
 * Make Your Bed: Little Things That Can Change Your Life...And Maybe the World by William H. McRaven
 * Thinking, Fast and Slow by Daniel Kahneman
