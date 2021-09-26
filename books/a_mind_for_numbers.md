@@ -1,6 +1,8 @@
 ## A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
 By Barbara Oakley
 
+**"The Law of Serendipity: Lady Luck favors the one who tries"**
+
 ### Chapter 1: Open the Door
 
 ### Chapter 2: Easy Does It: Why Trying Too Hard Can Sometimes Be Part of the Problem
@@ -44,3 +46,11 @@ Pinball Machine Analogy of Focused Mode and Diffuse Mode
  * The right side is more tied to diffuse scanning of the environment and interacting with other people, more associated with emotions
 * To learn about and be creative in math and science, we need to strengthen and use both the focused and diffuse modes
  * One mode will process the information it receives and then send the result back to the other mode  
+
+####
+Procrastination Prelude
+* When you procrastinate, you are leaving yourself only enough time to do superfical focused-mode learning
+* You are also increaseing your stress level because you know you have to complete what feels like an unpleasant task
+* Pomodoro technique - Set a 25 minute timer and focus on a task, reward yourself with web surfing, checking your phone etc. when the time is up
+
+### Chapter 3: Learning is Creating: Lessons from Thomas Edison’s Frying Pan
