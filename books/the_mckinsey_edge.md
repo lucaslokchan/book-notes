@@ -70,4 +70,33 @@ By Shu Hattori
   * Delegate work you don't need to handle yourself
  
  #### Principle 6 - Create the Right End Output Image
- 
+  
+  * Put together an end of project output impage as soon as possible
+   * Present a case with the ending already factored in
+  * Have an end output visionary
+  * Top down vision: end product; answer in advance
+
+#### Principle 7 - Smile When You are Under Stress
+
+ * When we see others in a positive state, we tend to emulate them
+ * Have a different frame of mind
+   * What is the big picture?
+   * Are we trying to slove the same issue just from different angles?
+   * Can i separate the problem from the person?
+   * What is the root cause of the hostility?
+ * Keeping a smile enables you to not lose your temper and think logically, ahead of the other person
+ * By keeping a positive outward presence, you can keep the discussion going
+ * You tend to nod your head more when you smile, the other person senses acknowledgement and return less anger
+
+#### Principle 8 - Go Beyond Your Self Perceived Limit
+
+ * Growth is not glamorous but painful
+ * Developing a new capacity to handle things requires patience and action; Take incremental steps
+ * If you are going to complain, blame or criticize, do something about it
+ * Share your pain points with others, reaching out will allow you to think outside the box
+ * Stop thinking about past failures and future uncertainties
+   * Always turn to the next problem and solution
+
+#### Principle 9 - Always Imagine the Worst Case Scenario
+
+ * 
