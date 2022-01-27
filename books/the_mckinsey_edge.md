@@ -99,4 +99,26 @@ By Shu Hattori
 
 #### Principle 9 - Always Imagine the Worst Case Scenario
 
- * 
+ * Imaging the worst-case scenario will enable you to make decisions more quickly and think about the next-step actions
+   * Allows you to cover more ground
+   * Anxieties fall as you participate in the anticipation
+   * Know whom to talk and what steps are going to be effective
+ * Countermeasure-drive instead of firefighting
+ * Have ready-made countermeasures in place, best done at the beginning of the project and right before the final/import milestone
+ * Play not to lose and keep calm
+
+#### Principle 10 - Start Following Up
+
+ * Following up can avoid missing import opportunities and major losses
+ * Shows presence, awareness and solid reputation; build credibility fast
+ * Reread notes
+ * Our memory is not reliable as it tends to distort reality due to stress, passage of time etc. Take notes and free your mind from problem sloving
+ * Summarize meetings, discussions into a few core themes
+ * Ask clients out on meals even after the project is finished
+
+#### Principle 11 - Push Back With Less Emotion
+
+ * 24-hour rule: When someone gives you something outrageous to do, wait for 24 hours before you act upon it with a counteroffer
+   * Think logically rather than emotionally
+ * When you are assigned to a new task, ask "What is the objective" and "Why are we doing this"
+ 
