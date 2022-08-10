@@ -10,3 +10,5 @@
 * [The E-Myth Revisited](books/the_e_myth_revisited.md) by Michael E. Gerber
 * [The Lean Startup](books/the_lean_startup.md) by Eric Ries
 * [A Thousand Brains: A New Theory of Intelligence](books/a_thousand_brains.md) by Jeff Hawkins
+* [Blockchian Bubble or Revolution](books/a_thousand_brains.md) by Aditya Agashe, Neel Mehta, and Parth Detroja
+* [The Infinite Machine](books/a_thousand_brains.md) by Camila Russo 
